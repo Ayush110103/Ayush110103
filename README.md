@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Jain</h1>
-<h3 align="center">I am a full stack Developer and ML/DL model developer</h3>
+<h3 align="center">I am a full stack web Developer, DL model developer, and Game Designer</h3>
 
 ![programmer_v_02](https://github.com/Ayush110103/Ayush110103/assets/95587227/8c17b2f7-ac5c-401f-82d9-8684ab15825d)
 
