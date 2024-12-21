@@ -6,11 +6,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush110103&label=Profile%20views&color=0e75b6&style=flat" alt="ayush110103" /> </p>
 
-- 🔭 I’m currently working on [Findfindr App Development](https://github.com/Ayush110103/FinFindr-App-Development)
 
-- 💬 Ask me about **React, Mongo, React Native, Flutter,**
+- 💬 Ask me about **React, Mongo, Flutter, ML/DL**
 
-- 📫 How to reach me **ayushjain1769@gmail.com**
+- 📫 How to reach me **ayushjain.3111@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1FYnXHzTjGt0mw7FsuRbE4ufqP2rmQLYf/view?usp=sharing](https://drive.google.com/file/d/1FYnXHzTjGt0mw7FsuRbE4ufqP2rmQLYf/view?usp=sharing)
 
