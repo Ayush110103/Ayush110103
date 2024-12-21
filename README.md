@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayush Jain</h1>
 <h3 align="center">I am a full stack web Developer, DL model developer, and Game Designer</h3>
 
-![programmer_v_02](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Fsoftware-development&psig=AOvVaw1OqGm96fPY7bO0PLxsEsFy&ust=1734865340413000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOCo-KXbuIoDFQAAAAAdAAAAABAE)
+![programmer_v_02]()
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush110103&label=Profile%20views&color=0e75b6&style=flat" alt="ayush110103" /> </p>
