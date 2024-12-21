@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayush Jain</h1>
 <h3 align="center">I am a full stack web Developer, DL model developer, and Game Designer</h3>
 
-![programmer_v_02](https://github.com/Ayush110103/Ayush110103/assets/95587227/8c17b2f7-ac5c-401f-82d9-8684ab15825d)
+![programmer_v_02]([https://github.com/Ayush110103/Ayush110103/assets/95587227/8c17b2f7-ac5c-401f-82d9-8684ab15825d](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FGulshan7777&psig=AOvVaw35IHnzfEe793siuEM7BpRn&ust=1734864878664000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIjwm7zZuIoDFQAAAAAdAAAAABAf))
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush110103&label=Profile%20views&color=0e75b6&style=flat" alt="ayush110103" /> </p>
