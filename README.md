@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ayush Jain</h1>
 <h3 align="center">I am a full stack web Developer, DL model developer, and Game Designer</h3>
-
-![programmer_v_02](photo.png)
-
+<img src="photo.png" alt="programmer_v_02" width="300" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush110103&label=Profile%20views&color=0e75b6&style=flat" alt="ayush110103" /> </p>
+
 
 
 - 💬 Ask me about **React, Mongo, Flutter, ML/DL**
