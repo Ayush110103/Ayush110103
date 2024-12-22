@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **ayushjain.3111@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1FYnXHzTjGt0mw7FsuRbE4ufqP2rmQLYf/view?usp=sharing](https://drive.google.com/file/d/1FYnXHzTjGt0mw7FsuRbE4ufqP2rmQLYf/view?usp=sharing)
+- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/1FYnXHzTjGt0mw7FsuRbE4ufqP2rmQLYf/view?usp=sharing](https://drive.google.com/file/d/1-u8QiibaKXZ1BBj6Sen364dqkF2c1Ofx/view?usp=drive_link))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
