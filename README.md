@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1-u8QiibaKXZ1BBj6Sen364dqkF2c1Ofx/view?usp=drive_link)
 
-- 🌐 Check out my [Portfolio](https://my-portfolio-cwpqed9tt-ayush110103s-projects.vercel.app/)
+- 🌐 Check out my [Portfolio](https://my-portfolio-olive-beta-16.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
