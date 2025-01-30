@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **ayushjain.3111@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1-u8QiibaKXZ1BBj6Sen364dqkF2c1Ofx/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1rpAeUyXQIzNELy_MZWvPvM9gMoMs9Lsh/view?usp=drive_link)
 
 - 🌐 Check out my [Portfolio](https://my-portfolio-olive-beta-16.vercel.app/)
 
