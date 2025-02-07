@@ -11,7 +11,7 @@
 </p>
 
 
-- 💬 Ask me about **React, Mongo, Flutter, ML/DL**
+- 💬 Ask me about **Next.js,React, Mongo, Flutter, ML/DL**
 
 - 📫 How to reach me **ayushjain.3111@gmail.com**
 
